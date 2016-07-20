@@ -1,4 +1,4 @@
-
+1
 
 # SmvTraining
 SMV training track.  Follow the training tasks below to gain familiarity with SMV and Spark.  This is not meant as an exhaustive introduction to SMV and Spark, but it is a quick way to learn the essentials.
